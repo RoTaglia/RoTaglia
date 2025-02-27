@@ -1,9 +1,9 @@
-<h1 align="center">#Olá! 👋 Eu sou o RoTaglia</h1>
+<h1>#Olá! 👋 Eu sou o RoTaglia</h1>
 
-💻 Desenvolvedor apaixonado por tecnologia 
-👨‍🏫 Professor de História e Filosofia
-🎵 Criador de músicas vaporwave  
-🎮 Fã de RPGs
+💻 Desenvolvedor apaixonado por tecnologia <br>
+👨‍🏫 Professor de História e Filosofia<br>
+🎵 Criador de músicas vaporwave  <br>
+🎮 Fã de RPGs<br>
 
 ## 🔧 Tecnologias e Ferramentas
 
@@ -21,7 +21,7 @@ Atualmente estou aprendendo **React.js**, **Nest.js** e aprimorando minhas habil
 
 ## 📫 Como me Encontrar?
 
-📧 Email: [falecomigo@gmail.com](mailto:falecomigo@gmail.com)
-💼 LinkedIn: [rotaglia](https://linkedin.com/in/rotaglia)
-📱 WhatsApp: [Clique para conversar no WhatsApp]([https://wa.me/SEUNUMEROAQUI](https://wa.me/+5516997915855))
-🎵 YouTube (Projeto de Vaporwave): [Midnight Study Session](https://www.youtube.com/@MidnightStudySession)  
+📧 Email: [falecomigo@gmail.com](mailto:falecomigo@gmail.com)<br>
+💼 LinkedIn: [rotaglia](https://linkedin.com/in/rotaglia)<br>
+📱 WhatsApp: [Clique para conversar no WhatsApp](https://wa.me/+5516997915855)<br>
+🎵 YouTube (Projeto de Vaporwave): [Midnight Study Session](https://www.youtube.com/@MidnightStudySession)
